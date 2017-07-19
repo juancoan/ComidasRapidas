@@ -1,0 +1,6 @@
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\Datos\bin\Debug\Datos.dll
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\Datos\bin\Debug\Datos.pdb
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\Datos\obj\Debug\Datos.dll
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\Datos\obj\Debug\Datos.pdb
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\Datos\bin\Debug\Datos.XML

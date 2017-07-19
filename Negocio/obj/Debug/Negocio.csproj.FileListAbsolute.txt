@@ -1,0 +1,9 @@
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\Negocio\bin\Debug\Datos.dll
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\Negocio\bin\Debug\Datos.pdb
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\Negocio\bin\Debug\Negocio.XML
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\Negocio\bin\Debug\Datos.xml

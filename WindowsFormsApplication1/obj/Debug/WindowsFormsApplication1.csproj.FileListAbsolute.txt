@@ -1,0 +1,17 @@
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\bin\Debug\Datos.dll
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\bin\Debug\Datos.pdb
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\adolfo\documents\visual studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\bin\Debug\Negocio.dll
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\bin\Debug\Negocio.pdb
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Administrador.resources
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Principal.resources
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Usuario.resources
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\bin\Debug\Negocio.xml
+C:\Users\Adolfo\Documents\Visual Studio 2015\Projects\ComidasRapidas_830\WindowsFormsApplication1\bin\Debug\Datos.xml
